@@ -25,7 +25,8 @@ end
 
 def kesha_maker(string_array)
   new_array = []
-  string_array.each do |l|
+  string_array.each do |word}
+    
     
   
   

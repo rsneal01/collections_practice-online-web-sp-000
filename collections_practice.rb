@@ -22,3 +22,5 @@ end
 def reverse_array(int_array)
   int_array.reverse
 end
+
+def kesha_maker(string_array)

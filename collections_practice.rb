@@ -43,6 +43,7 @@ def sum_array(int_array)
   sum
 end
   
-def 
+def add_s(array)
+  array.unless 
   
   

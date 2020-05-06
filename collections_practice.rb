@@ -24,14 +24,14 @@ def reverse_array(int_array)
 end
 
 def kesha_maker(string_array)
-  # new_array = []
   string_array.each do |word|
     word[2] = "$"
   end
-  # new_array
 end
     
-    
+def find_a(array)
+  array.select do |string|
+    string.start_with?
     
   
   

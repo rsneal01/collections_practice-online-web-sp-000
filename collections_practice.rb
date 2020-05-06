@@ -7,3 +7,10 @@ def sort_array_desc(int_array)
     b <=> a
   end
 end
+
+sort_array_char_count(string_array)
+  string_array.sort do |a, b|
+
+def swap_elements(array)
+  
+end

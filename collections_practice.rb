@@ -24,3 +24,9 @@ def reverse_array(int_array)
 end
 
 def kesha_maker(string_array)
+  new_array = []
+  string_array.each do |l|
+    
+  
+  
+  
